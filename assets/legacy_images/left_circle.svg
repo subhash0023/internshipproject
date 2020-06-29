@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="296px" height="549px" viewBox="0 0 296 549" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>7D7B2C4B-9F88-4FDA-AC7A-F91F92FF3D20@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="69.310023%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#9F62C9" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#663399" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="International-Payments-Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.19798">
+        <g transform="translate(0.000000, -1019.000000)" fill="url(#linearGradient-1)" id="bg-circle">
+            <g transform="translate(-254.000000, 998.000000)">
+                <circle id="parallax_circle_solid" cx="275.5" cy="295.5" r="274"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

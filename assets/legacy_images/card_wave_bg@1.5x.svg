@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="869px" viewBox="0 0 1440 869" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>6E72F6F0-E074-43AF-A8F1-51DD4194EDE5@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="45.459049%" y1="18.3761961%" x2="45.459049%" y2="89.2884894%" id="linearGradient-1">
+            <stop stop-color="#FAFBFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0_web_home_2" transform="translate(0.000000, -3936.000000)" fill="url(#linearGradient-1)">
+            <path d="M-258,4140.8882 L-217.33634,4109.1004 C19.701216,3923.80218 339.638327,3884.41496 614.540833,4006.6886 L705.91456,4047.33065 C934.447958,4148.97982 1192.79803,4161.20357 1429.90799,4081.58616 L1599,4024.808 L1599,4024.808 L1599,4805 L-258,4805 L-258,4140.8882 Z" id="card_wave_bg"></path>
+        </g>
+    </g>
+</svg>

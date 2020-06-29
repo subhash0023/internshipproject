@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="754px" height="802px" viewBox="0 0 754 802" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>071E44E7-599C-43D9-B47C-8A991F8CFB9F@1.5x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="69.310023%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#9F62C9" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#663399" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.11798">
+        <g id="3.0_web_home_2" transform="translate(-686.000000, -6854.000000)" fill="url(#linearGradient-1)">
+            <ellipse id="apps_circle_solid" cx="1086" cy="7255" rx="400" ry="401"></ellipse>
+        </g>
+    </g>
+</svg>
